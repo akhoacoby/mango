@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+tensorflow
+ultralytics
+torch
+streamlit
+skimage
+opencv-python
